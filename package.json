@@ -1,0 +1,24 @@
+{
+  "name": "jospeh.db",
+  "version": "1.0.0",
+  "description": "SQLite DataBase structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephdevmn/joseph.db.git"
+  },
+  "keywords": [
+    "db",
+    "SQLite",
+    "js.db"
+  ],
+  "author": "JosephDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/josephdevmn/joseph.db/issues"
+  },
+  "homepage": "https://github.com/josephdevmn/joseph.db#readme"
+}
